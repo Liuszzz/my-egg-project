@@ -1,0 +1,82 @@
+2019-04-10 17:36:36,275 INFO 23372 [Timer] F:\liuxin\egg-project\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 23003727ms at 2019-04-11 00:00:00.002
+2019-04-10 17:36:36,275 INFO 23372 [Timer] F:\liuxin\egg-project\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 23004725ms at 2019-04-11 00:00:01.000
+2019-04-10 17:36:36,154 INFO 23444 [egg-schedule]: register schedule F:\liuxin\egg-project\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-04-10 17:36:36,154 INFO 23444 [egg-schedule]: register schedule F:\liuxin\egg-project\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-04-10 17:49:37,604 INFO 18536 [egg-schedule]: register schedule F:\liuxin\egg-project\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-04-10 17:49:37,604 INFO 18536 [egg-schedule]: register schedule F:\liuxin\egg-project\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-04-10 17:49:37,721 INFO 21572 [Timer] F:\liuxin\egg-project\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 22222280ms at 2019-04-11 00:00:00.001
+2019-04-10 17:49:37,722 INFO 21572 [Timer] F:\liuxin\egg-project\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 22223279ms at 2019-04-11 00:00:01.001
+2019-04-11 10:04:08,130 INFO 15296 [Timer] F:\liuxin\egg-project\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 50151871ms at 2019-04-12 00:00:00.001
+2019-04-11 10:04:08,131 INFO 15296 [Timer] F:\liuxin\egg-project\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 50152870ms at 2019-04-12 00:00:01.001
+2019-04-11 10:04:07,806 INFO 2656 [egg-schedule]: register schedule F:\liuxin\egg-project\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-04-11 10:04:07,806 INFO 2656 [egg-schedule]: register schedule F:\liuxin\egg-project\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-04-11 10:04:09,197 INFO 12100 [egg-schedule]: register schedule F:\liuxin\egg-project\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-04-11 10:04:09,197 INFO 12100 [egg-schedule]: register schedule F:\liuxin\egg-project\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-04-11 10:04:45,257 INFO 9408 [egg-schedule]: register schedule F:\liuxin\egg-project\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-04-11 10:04:45,257 INFO 9408 [egg-schedule]: register schedule F:\liuxin\egg-project\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-04-12 10:10:34,688 INFO 20080 [Timer] F:\liuxin\egg-project\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 49765314ms at 2019-04-13 00:00:00.002
+2019-04-12 10:10:34,689 INFO 20080 [Timer] F:\liuxin\egg-project\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 49766312ms at 2019-04-13 00:00:01.001
+2019-04-12 10:10:34,347 INFO 9816 [egg-schedule]: register schedule F:\liuxin\egg-project\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-04-12 10:10:34,347 INFO 9816 [egg-schedule]: register schedule F:\liuxin\egg-project\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-04-12 10:10:35,724 INFO 8572 [egg-schedule]: register schedule F:\liuxin\egg-project\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-04-12 10:10:35,724 INFO 8572 [egg-schedule]: register schedule F:\liuxin\egg-project\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-04-12 10:13:44,659 INFO 11132 [egg-schedule]: register schedule F:\liuxin\egg-project\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-04-12 10:13:44,659 INFO 11132 [egg-schedule]: register schedule F:\liuxin\egg-project\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-04-12 10:14:16,282 INFO 23248 [egg-schedule]: register schedule F:\liuxin\egg-project\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-04-12 10:14:16,282 INFO 23248 [egg-schedule]: register schedule F:\liuxin\egg-project\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-04-12 10:14:38,470 INFO 19024 [egg-schedule]: register schedule F:\liuxin\egg-project\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-04-12 10:14:38,470 INFO 19024 [egg-schedule]: register schedule F:\liuxin\egg-project\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-04-12 10:15:48,545 INFO 13216 [egg-schedule]: register schedule F:\liuxin\egg-project\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-04-12 10:15:48,545 INFO 13216 [egg-schedule]: register schedule F:\liuxin\egg-project\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-04-12 10:16:21,550 INFO 2940 [egg-schedule]: register schedule F:\liuxin\egg-project\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-04-12 10:16:21,550 INFO 2940 [egg-schedule]: register schedule F:\liuxin\egg-project\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-04-12 10:16:44,066 INFO 21476 [egg-schedule]: register schedule F:\liuxin\egg-project\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-04-12 10:16:44,066 INFO 21476 [egg-schedule]: register schedule F:\liuxin\egg-project\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-04-12 10:19:35,583 INFO 19744 [egg-schedule]: register schedule F:\liuxin\egg-project\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-04-12 10:19:35,583 INFO 19744 [egg-schedule]: register schedule F:\liuxin\egg-project\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-04-12 10:27:09,998 INFO 19228 [egg-schedule]: register schedule F:\liuxin\egg-project\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-04-12 10:27:09,998 INFO 19228 [egg-schedule]: register schedule F:\liuxin\egg-project\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-04-12 10:29:50,829 INFO 9516 [egg-schedule]: register schedule F:\liuxin\egg-project\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-04-12 10:29:50,829 INFO 9516 [egg-schedule]: register schedule F:\liuxin\egg-project\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-04-12 10:40:57,170 INFO 11432 [egg-schedule]: register schedule F:\liuxin\egg-project\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-04-12 10:40:57,170 INFO 11432 [egg-schedule]: register schedule F:\liuxin\egg-project\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-04-12 10:40:57,281 INFO 19984 [Timer] F:\liuxin\egg-project\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 47942721ms at 2019-04-13 00:00:00.002
+2019-04-12 10:40:57,281 INFO 19984 [Timer] F:\liuxin\egg-project\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 47943719ms at 2019-04-13 00:00:01.000
+2019-04-12 10:41:19,489 INFO 19388 [egg-schedule]: register schedule F:\liuxin\egg-project\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-04-12 10:41:19,489 INFO 19388 [egg-schedule]: register schedule F:\liuxin\egg-project\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-04-12 10:41:46,928 INFO 6120 [egg-schedule]: register schedule F:\liuxin\egg-project\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-04-12 10:41:46,928 INFO 6120 [egg-schedule]: register schedule F:\liuxin\egg-project\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-04-12 10:42:18,017 INFO 17616 [egg-schedule]: register schedule F:\liuxin\egg-project\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-04-12 10:42:18,017 INFO 17616 [egg-schedule]: register schedule F:\liuxin\egg-project\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-04-12 10:42:27,452 INFO 6572 [egg-schedule]: register schedule F:\liuxin\egg-project\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-04-12 10:42:27,452 INFO 6572 [egg-schedule]: register schedule F:\liuxin\egg-project\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-04-12 10:43:23,010 INFO 9456 [egg-schedule]: register schedule F:\liuxin\egg-project\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-04-12 10:43:23,010 INFO 9456 [egg-schedule]: register schedule F:\liuxin\egg-project\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-04-12 10:43:32,151 INFO 20968 [egg-schedule]: register schedule F:\liuxin\egg-project\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-04-12 10:43:32,151 INFO 20968 [egg-schedule]: register schedule F:\liuxin\egg-project\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-04-12 11:06:53,645 INFO 19968 [egg-schedule]: register schedule F:\liuxin\egg-project\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-04-12 11:06:53,645 INFO 19968 [egg-schedule]: register schedule F:\liuxin\egg-project\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-04-12 11:07:03,407 INFO 20268 [egg-schedule]: register schedule F:\liuxin\egg-project\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-04-12 11:07:03,407 INFO 20268 [egg-schedule]: register schedule F:\liuxin\egg-project\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-04-12 11:09:09,208 INFO 6544 [egg-schedule]: register schedule F:\liuxin\egg-project\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-04-12 11:09:09,208 INFO 6544 [egg-schedule]: register schedule F:\liuxin\egg-project\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-04-12 12:25:26,395 INFO 16448 [egg-schedule]: register schedule F:\liuxin\egg-project\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-04-12 12:25:26,395 INFO 16448 [egg-schedule]: register schedule F:\liuxin\egg-project\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-04-12 12:25:27,832 INFO 5760 [egg-schedule]: register schedule F:\liuxin\egg-project\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-04-12 12:25:27,832 INFO 5760 [egg-schedule]: register schedule F:\liuxin\egg-project\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-04-12 13:41:52,909 INFO 20116 [egg-schedule]: register schedule F:\liuxin\egg-project\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-04-12 13:41:52,909 INFO 20116 [egg-schedule]: register schedule F:\liuxin\egg-project\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-04-12 13:41:54,159 INFO 11640 [egg-schedule]: register schedule F:\liuxin\egg-project\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-04-12 13:41:54,159 INFO 11640 [egg-schedule]: register schedule F:\liuxin\egg-project\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-04-12 13:44:35,292 INFO 8096 [Timer] F:\liuxin\egg-project\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 36924710ms at 2019-04-13 00:00:00.002
+2019-04-12 13:44:35,292 INFO 8096 [Timer] F:\liuxin\egg-project\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 36925708ms at 2019-04-13 00:00:01.000
+2019-04-12 13:44:35,165 INFO 9944 [egg-schedule]: register schedule F:\liuxin\egg-project\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-04-12 13:44:35,165 INFO 9944 [egg-schedule]: register schedule F:\liuxin\egg-project\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-04-12 13:45:48,682 INFO 352 [egg-schedule]: register schedule F:\liuxin\egg-project\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-04-12 13:45:48,682 INFO 352 [egg-schedule]: register schedule F:\liuxin\egg-project\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-04-12 13:46:07,717 INFO 6688 [egg-schedule]: register schedule F:\liuxin\egg-project\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-04-12 13:46:07,717 INFO 6688 [egg-schedule]: register schedule F:\liuxin\egg-project\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-04-12 13:46:16,315 INFO 7724 [egg-schedule]: register schedule F:\liuxin\egg-project\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-04-12 13:46:16,315 INFO 7724 [egg-schedule]: register schedule F:\liuxin\egg-project\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-04-12 14:11:49,415 INFO 6692 [egg-schedule]: register schedule F:\liuxin\egg-project\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-04-12 14:11:49,415 INFO 6692 [egg-schedule]: register schedule F:\liuxin\egg-project\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
